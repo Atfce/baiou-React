@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc7ddb68-2d20-4ef2-9db0-50c8e42aaa08" name="Default Changelist" comment="create">
+    <list default="true" id="fc7ddb68-2d20-4ef2-9db0-50c8e42aaa08" name="Default Changelist" comment="添加登录和注册表单组件">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +50,11 @@
     <property name="ts.external.directory.path" value="E:\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EEProject\baiou-react\src\pages" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -71,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611863900885</updated>
-      <workItem from="1611863902004" duration="14846000" />
+      <workItem from="1611863902004" duration="28731000" />
     </task>
     <task id="LOCAL-00001" summary="create">
       <created>1611864647265</created>
@@ -80,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611864647265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加登录和注册表单组件">
+      <created>1611939421026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611939421026</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,7 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create" />
-    <option name="LAST_COMMIT_MESSAGE" value="create" />
+    <MESSAGE value="添加登录和注册表单组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加登录和注册表单组件" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

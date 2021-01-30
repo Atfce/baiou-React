@@ -4,11 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import LoginForm from './login/LoginForm.js'
-import RegisterForm from './login/RegisterForm.js'
 
 ReactDOM.render(
-    <RegisterForm />,
+    <App />,
     document.getElementById('root')
 );
 
